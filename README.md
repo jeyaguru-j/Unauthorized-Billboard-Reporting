@@ -57,8 +57,8 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
 
 4. **Access in Browser**
    - Homepage → http://127.0.0.1:5000
-   - Upload Report → /upload
-   - Dashboard → /dashboard
+   - Upload Report → http://127.0.0.1:5000/upload
+   - Dashboard → http://127.0.0.1:5000/dashboard
 
 ---
 
@@ -81,9 +81,9 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
 - Accurate geo-tagged violation reports.
 - Dashboard with clean visualization for authorities.
 
-📸 Screenshots (replace with your images)
-
-
+**Homepage**
+**Upload Report**
+**Dashboard**
 
 ---
 
@@ -111,4 +111,4 @@ Hackathon Project – TechNova 2025
 
 ## License
 
-This project is licensed under the MIT Lic
+This project is licensed under the MIT License
