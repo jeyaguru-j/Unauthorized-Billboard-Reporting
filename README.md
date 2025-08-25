@@ -1,5 +1,11 @@
 # Unauthorized-Billboard-Reporting
 
+[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)  
+[![Flask](https://img.shields.io/badge/Flask-Framework-black)](https://flask.palletsprojects.com/)  
+[![Leaflet](https://img.shields.io/badge/Leaflet-Maps-brightgreen)](https://leafletjs.com/)  
+[![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)](https://www.sqlite.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+
 A Flask-based web app that lets citizens report unauthorized billboards by uploading images with auto-fetched GPS coordinates. Features a modern UI, live image preview, and a dashboard to track all reports.
 
 ---
