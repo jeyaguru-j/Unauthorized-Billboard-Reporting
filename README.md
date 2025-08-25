@@ -56,9 +56,9 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
    flask run
 
 4. **Access in Browser**
-- Homepage → http://127.0.0.1:5000
-- Upload Report → /upload
-- Dashboard → /dashboard
+   - Homepage → http://127.0.0.1:5000
+   - Upload Report → /upload
+   - Dashboard → /dashboard
 
 ---
 
