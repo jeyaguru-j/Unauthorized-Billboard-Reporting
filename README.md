@@ -88,8 +88,13 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
 - Dashboard with clean visualization for authorities.
 
 **Homepage**
+<img width="942" height="675" alt="image" src="https://github.com/user-attachments/assets/34f66ef9-7746-49ba-91f6-4d5d74be6ea0" />
+
 **Upload Report**
+<img width="615" height="879" alt="image" src="https://github.com/user-attachments/assets/027d5d70-fac4-4d9c-9e37-a1f5c6fa2270" />
+
 **Dashboard**
+<img width="1010" height="908" alt="image" src="https://github.com/user-attachments/assets/81268b0c-398c-4745-b831-96f42d54f8ef" />
 
 ---
 
