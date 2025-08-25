@@ -71,13 +71,13 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
 ## Workflow
 
 1. **User opens Upload Page**
-  - Enters details & uploads billboard image.
-  - Latitude & Longitude auto-fetched via geolocation.
+   - Enters details & uploads billboard image.
+   - Latitude & Longitude auto-fetched via geolocation.
 2. **Report stored in the database**
 3. **Dashboard View**
-  - Tabular list of reports (user, violation type, coordinates, image).
-  - Interactive map showing exact billboard locations.
-  - Heatmap highlights high-density violation zones.
+   - Tabular list of reports (user, violation type, coordinates, image).
+   - Interactive map showing exact billboard locations.
+   - Heatmap highlights high-density violation zones.
 
 ---
 
