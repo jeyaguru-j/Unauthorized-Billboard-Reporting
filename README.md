@@ -56,22 +56,22 @@ Unauthorized billboards clutter cities, block visibility, and violate regulation
    flask run
 
 4. **Access in Browser**
-  - Homepage → http://127.0.0.1:5000
-  - Upload Report → /upload
-  - Dashboard → /dashboard
+   - Homepage → http://127.0.0.1:5000
+   - Upload Report → /upload
+   - Dashboard → /dashboard
 
 ---
 
 ## Workflow
 
-1. User opens Upload Page
-- Enters details & uploads billboard image.
-- Latitude & Longitude auto-fetched via geolocation.
-2. Report stored in the database
-3. Dashboard View
-- Tabular list of reports (user, violation type, coordinates, image).
-- Interactive map showing exact billboard locations.
-- Heatmap highlights high-density violation zones.
+1. **User opens Upload Page**
+   - Enters details & uploads billboard image.
+   - Latitude & Longitude auto-fetched via geolocation.
+2. **Report stored in the database**
+3. **Dashboard View**
+   - Tabular list of reports (user, violation type, coordinates, image).
+   - Interactive map showing exact billboard locations.
+   - Heatmap highlights high-density violation zones.
 
 ---
 
